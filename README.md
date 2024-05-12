@@ -35,6 +35,11 @@ The technical implementation of the simulation involves several components and a
 - **Update Function**: The heart of the simulation, the update function drives the iterative progression of the simulation by recalculating the positions and velocities of individuals at each time step based on their interactions and behaviors.
 - **Emergent Behaviors**: Through this iterative process, individuals exhibit emergent behaviors such as flocking, clustering, and avoidance, mirroring the collective dynamics observed in real-world evacuations.
 
+<div style="display: flex;">
+    <img src="https://github.com/Rishit-katiyar/SlumFireEvacuationSimulation/assets/167756997/5f84a4b3-9aa1-49e0-af94-9b70c1dae5fa" alt="slum_evacuation1" style="width: 45%;">
+    <img src="https://github.com/Rishit-katiyar/SlumFireEvacuationSimulation/assets/167756997/cacbd13e-7431-44a7-86ed-ce76db893cd3" alt="slum_evacuation" style="width: 45%;">
+</div>
+
 ## Usage
 
 To use the Fire Evacuation Simulation, follow these steps:
