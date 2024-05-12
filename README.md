@@ -35,10 +35,9 @@ The technical implementation of the simulation involves several components and a
 - **Update Function**: The heart of the simulation, the update function drives the iterative progression of the simulation by recalculating the positions and velocities of individuals at each time step based on their interactions and behaviors.
 - **Emergent Behaviors**: Through this iterative process, individuals exhibit emergent behaviors such as flocking, clustering, and avoidance, mirroring the collective dynamics observed in real-world evacuations.
 
-<div style="display: flex;">
-    <img src="https://github.com/Rishit-katiyar/SlumFireEvacuationSimulation/assets/167756997/5f84a4b3-9aa1-49e0-af94-9b70c1dae5fa" alt="slum_evacuation1" style="width: 45%;">
-    <img src="https://github.com/Rishit-katiyar/SlumFireEvacuationSimulation/assets/167756997/cacbd13e-7431-44a7-86ed-ce76db893cd3" alt="slum_evacuation" style="width: 45%;">
-</div>
+<p align="center">
+  <img src="https://github.com/Rishit-katiyar/SlumFireEvacuationSimulation/assets/167756997/5f84a4b3-9aa1-49e0-af94-9b70c1dae5fa" alt="slum_evacuation1" style="width: 75%;">
+</p>
 
 ## Usage
 
@@ -70,6 +69,22 @@ To use the Fire Evacuation Simulation, follow these steps:
 
 5. Explore the simulation and analyze the evacuation dynamics in the slum area.
 
+### Interaction with the Simulation
+
+#### Mouse Clicks
+The simulation allows users to interact with the environment through mouse clicks. By clicking on the simulation window, users can toggle between different modes of behavior for the individuals (represented as military units) within the slum area. 
+
+- **Normal Mode**: In this mode, individuals exhibit standard evacuation behaviors, such as alignment, cohesion, separation, and building avoidance. Clicking once on the simulation window activates this mode, allowing users to observe the natural evacuation dynamics within the slum environment.
+
+- **Move Towards Edge Mode**: Clicking on the simulation window a second time activates this mode, causing individuals to prioritize moving towards the edges of buildings during evacuation. This mode simulates a scenario where individuals seek refuge or escape routes along building perimeters, potentially influencing evacuation strategies in densely built environments.
+
+### Understanding the Visualizations
+
+#### Green Dots
+In the simulation, individuals are represented as green dots moving within the slum area. The intensity of the green color reflects the density of individuals in a particular location. Darker shades of green indicate higher concentrations of individuals, while lighter shades represent areas with fewer individuals. 
+
+By observing the distribution and movement of green dots over time, users can gain insights into the flow of evacuation, identify congested areas, and evaluate the effectiveness of different evacuation strategies.
+
 ## Visualization and Analysis
 
 The simulation provides a rich visual interface that enables observers to track the movement of individuals in real-time as they navigate through the simulated slum environment. Individuals leave behind temporary trails as they move, with the intensity of the trails varying based on the density of individuals in a particular area. 
@@ -81,6 +96,10 @@ Looking ahead, there are several avenues for enhancing the Fire Evacuation Simul
 - Incorporating additional variables and parameters to increase realism.
 - Conducting detailed analyses of evacuation strategies and interventions.
 - Collaborating with stakeholders to implement evidence-based policies and interventions.
+
+<p align="center">
+  <img src="https://github.com/Rishit-katiyar/SlumFireEvacuationSimulation/assets/167756997/cacbd13e-7431-44a7-86ed-ce76db893cd3" alt="slum_evacuation" style="width: 75%;">
+</p>
 
 ## Contributions
 
