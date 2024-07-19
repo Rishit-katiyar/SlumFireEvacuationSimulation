@@ -5,6 +5,7 @@
 
 
 
+
 # Fire Evacuation Simulation in a Slum Area
 
 The **Fire Evacuation Simulation in a Slum Area** is a sophisticated computational model developed to simulate and analyze the evacuation dynamics of individuals within a densely populated and economically disadvantaged urban setting during a fire outbreak. This simulation serves as a crucial tool for researchers, urban planners, and policymakers to gain insights into the complex interplay of factors influencing evacuation behaviors and to devise effective strategies to mitigate the risks associated with fire emergencies in slum communities.
