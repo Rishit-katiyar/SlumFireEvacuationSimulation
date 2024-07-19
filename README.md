@@ -11,6 +11,7 @@
 
 
 
+
 # Fire Evacuation Simulation in a Slum Area
 
 Welcome to the Fire Evacuation Simulation in a Slum Area repository! This project aims to simulate and analyze the evacuation dynamics of individuals within densely populated and economically disadvantaged urban settings during fire outbreaks. 🏙️🔥
